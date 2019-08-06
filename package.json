@@ -1,0 +1,19 @@
+{
+  "name": "shortest-unique-prefix",
+  "version": "1.0.0",
+  "description": "outputs the shortest unique prefixes of elements in an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsraelAdura/shortest-unique-prefix.git"
+  },
+  "author": "israeladura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsraelAdura/shortest-unique-prefix/issues"
+  },
+  "homepage": "https://github.com/IsraelAdura/shortest-unique-prefix#readme"
+}

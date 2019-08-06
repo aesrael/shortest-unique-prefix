@@ -1,6 +1,6 @@
 {
   "name": "shortest-unique-prefix",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "outputs the shortest unique prefixes of elements in an array",
   "main": "index.js",
   "scripts": {
